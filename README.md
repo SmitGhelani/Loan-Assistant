@@ -1,1 +1,1 @@
-# java-projects
+# Loan Assistant
